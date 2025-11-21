@@ -1,0 +1,35 @@
+{
+  "SBM": {
+    "GeneralParameters":{
+      "input_folder": "/home/asolomatina/Desktop/Projects/MuMoSim/code/wholebloodsbm/data/WBM/c_albicans",
+      "standard_seed": 42
+    },
+    "SimulationParameters":{
+      "timestep": 1.0,
+      "timesteps": 240
+    },
+    "ModelParameters": {
+      "resistance_effect": false,
+      "rates": {
+        "PhiG": 0.0321981,
+        "PhiGStar": 0.0303716,
+        "PhiM": 0.0137036,
+        "KappaM": 0.501573,
+        "KappaG": 0.0467262,
+        "Rho": 0.00459136,
+        "Gamma": 0.0093675,
+        "KappaExt":0.176844,
+        "GammaR": 0.000
+      },
+      "cells": {
+        "ALIVEEXTERNCANDIDA": 1e+05,
+        "RESISTENTCANDIDA": 0,
+        "ALIVEIECANDIDA": 0,
+        "KILLEDIECANDIDA": 0,
+        "KILLEDEXTERNCANDIDA": 0,
+        "MONOCYTES": 50000,
+        "GRANULOCYTES": 500000
+      }
+    }
+  }
+}
