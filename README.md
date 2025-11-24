@@ -75,7 +75,7 @@ The `notebooks/` directory contains two Jupyter notebooks:
 1. [Hünniger *et al*., *PLoS Computational Biology* (2014)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003479)
 2. [Lehnert *et al*., *Frontiers in Microbiology* (2015)](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2015.00608/full)
 3. [Lehnert *et al*., *Scientific Reports* (2021)](www.nature.com/articles/s41598-021-91362-5#Ack1)
-4. [Lehnert *et al*.,*PLoS ONE* (2021)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249372)
+4. [Lehnert *et al*., *PLoS ONE* (2021)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249372)
 
 ---
 ## License
